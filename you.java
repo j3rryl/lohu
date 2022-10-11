@@ -1,0 +1,3 @@
+class You{
+    //works
+}
